@@ -14,7 +14,7 @@
 - 🌍 Based in **Tipaza, Algeria**  crafting solutions with a global mindset.
 - 💡 Currently learning **AI integration**, **TypeScript**, and **Next.js**.
 - 💬 Ask me about **React, Node.js, MongoDB, REST APIs**, or how I make tech teams better.
-- ⚡ Fun fact: I code like I breathe  fast, focused, and caffeinated ☕.
+
 
 ---
 
