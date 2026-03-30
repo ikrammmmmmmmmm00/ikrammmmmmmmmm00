@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Ikram Cheifa 👋
+  # Ikram Cheifa 
   
   ### Full-Stack Developer | Tipaza, Algeria 🇩🇿
   
