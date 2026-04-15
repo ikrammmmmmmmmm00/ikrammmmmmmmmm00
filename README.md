@@ -1,83 +1,73 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ikram!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+
 <div align="center">
   
-  # Ikram Cheifa 
+  ### Full-Stack Web Architect | Tipaza, Algeria 🇩🇿
   
-  ### Full-Stack Developer | Tipaza, Algeria 🇩🇿
-  
-  <p>Architecting robust and user-centric digital experiences from concept to deployment.</p>
+  <p align="center">
+    <a href="https://dz.linkedin.com/in/ikram-cheifa" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ikram.cheifa@technocast.dz">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Full-Stack+Web+Architect;Bridging+Logic+%26+Creative+UI;Continuous+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
-
 </div>
 
-<div align="center">
-  
+<br/>
+
 ## 🚀 About Me
 
-> I'm a software developer at **Techno Cast Group**, where I specialize in building high-performance web applications. My passion lies in writing clean, efficient code and creating systems that are both powerful and easy to use. I am constantly exploring new technologies to push the boundaries of what's possible on the web.
+I'm a software developer at **Techno Cast Group**, where I specialize in building high-performance web applications. My passion lies in writing clean, efficient code and architecting robust digital experiences from concept to deployment.
 
-</div>
+- 🔭 **Currently working on:** Enterprise-level web solutions at Techno Cast Group.
+- 🌱 **Constantly exploring:** New frameworks and system architectures to push web boundaries.
+- ⚡ **Superpower:** Bridging complex backend logic with highly creative and intuitive UIs.
+- 💬 **Ask me about:** React, Node.js, and Full-Stack architecture.
 
-<div align="center">
+<br/>
 
-## 🔧 Core Technologies & Tools
+## 🛠️ Core Technologies & Tools
 
-<p>My toolkit for building and launching applications.</p>
+<br/>
 
-<table>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Databases & DevOps</strong></td>
-    <td align="center"><strong>Tools & Platforms</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite" alt="Frontend Skills" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Skills" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git" alt="Database & DevOps Skills" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,vscode,postman,vercel" alt="Tools & Platforms" />
-    </td>
-  </tr>
-</table>
-  
-</div>
+**Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite" alt="Frontend Skills" />
 
-<div align="center">
-  
+**Backend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Skills" />
+
+**Databases & Cloud/DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git" alt="Database & DevOps Skills" />
+
+**Design & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman,vercel" alt="Tools & Platforms" />
+
+<br/>
+
 ## 📊 My GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ikrammmmmmmmmm00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Ikram's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikrammmmmmmmmm00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="195" alt="Ikram's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrammmmmmmmmm00&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Ikram's Top Languages" />
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrammmmmmmmmm00&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Ikram's GitHub Streak" />
-</p>
-  
 </div>
 
+<br/>
+
 <div align="center">
-
-## 🌐 Let's Connect & Innovate
-
-<p>I'm always open to new opportunities and collaborations. Feel free to reach out!</p>
-
-<p>
-  <a href="https://dz.linkedin.com/in/ikram-cheifa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ikram.cheifa@technocast.dz">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
+  <img src="https://komarev.com/ghpvc/?username=ikrammmmmmmmmm00&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
+  <p><i>Building the web, one line of code at a time.</i></p>
 </div>
